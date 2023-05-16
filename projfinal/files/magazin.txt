@@ -1,0 +1,17 @@
+product
+iPhone 12 Pro Max
+XFGH-PRO1-2MAX
+8000 6
+product
+Sobranie
+FUME-ZPTC-APOT
+26.5 870
+alimentaryproduct
+Shaorma
+SHAO-RMAT-HABN
+12 993 300 23 5 2021
+nonalimentaryproduct
+Odorizant camera
+ODOP-UTEB-INES
+50 1990
+Odorizant de camera cu aroma de castane
